@@ -11,6 +11,6 @@ nav {
 }
 
 .side-nav-button:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: darkgreen, mediumgreen, lightgreen, darkgrey, mediumgrey, lightgrey;
     border-radius: 30%;
 }
